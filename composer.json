@@ -1,18 +1,18 @@
 {
     "name": "mariogalan/testpackage",
     "type": "library",
-    "description": ":package_description",
+    "description": "Here goes the description",
     "keywords": [
-        ":vendor",
-        ":package_name"
+        "mariogalan",
+        "testpackage"
     ],
     "homepage": "https://github.com/:vendor/:package_name",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
-            "homepage": ":author_website",
+            "name": "Mario Galan Alonso",
+            "email": "mario.galan@gmail.com",
+            "homepage": "https://mariogalan.com",
             "role": "Developer"
         }
     ],
